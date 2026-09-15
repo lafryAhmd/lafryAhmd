@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+<title id="title">Lafry — Backend Developer</title>
+<desc id="desc">Java and TypeScript. Building the logic behind useful software. APIs, authentication, and business applications.</desc>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#09131f"/><stop offset="1" stop-color="#102c34"/></linearGradient>
+  <linearGradient id="accent"><stop stop-color="#63ead3"/><stop offset="1" stop-color="#79aaff"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8dd9d0" stroke-opacity=".045"/></pattern>
+</defs>
+<style>
+ .flow{stroke-dasharray:5 10;animation:flow 4s linear infinite}
+ .status{animation:pulse 3s ease-in-out infinite}
+ .cursor{animation:blink 1.2s step-end infinite}
+ @keyframes flow{to{stroke-dashoffset:-90}}
+ @keyframes pulse{50%{opacity:.35}}
+ @keyframes blink{50%{opacity:0}}
+ @media(prefers-reduced-motion:reduce){.flow,.status,.cursor{animation:none}}
+</style>
+<rect x="1" y="1" width="1198" height="458" rx="22" fill="url(#bg)" stroke="#2a4b55"/>
+<rect x="1" y="1" width="1198" height="458" rx="22" fill="url(#grid)"/>
+<rect x="48" y="0" width="180" height="3" rx="1" fill="url(#accent)"/>
+<g font-family="Arial, Helvetica, sans-serif">
+  <circle cx="57" cy="54" r="4" fill="#63ead3" class="status"/>
+  <text x="73" y="59" font-size="13" letter-spacing="2.5" fill="#9ac3c7">BACKEND / WEB / SYSTEMS</text>
+  <text x="48" y="157" font-size="84" font-weight="700" letter-spacing="-3" fill="#effaf9">Lafry<tspan fill="#63ead3">.</tspan></text>
+  <text x="52" y="205" font-size="27" fill="#63ead3">Backend Developer</text>
+  <text x="52" y="271" font-size="26" fill="#e2edef">Building the logic</text>
+  <text x="52" y="307" font-size="26" fill="#e2edef">behind useful software.</text>
+  <text x="52" y="347" font-size="16" fill="#9ab5c0">Java · Spring Boot · Node.js · TypeScript</text>
+  <rect x="690" y="57" width="454" height="296" rx="14" fill="#0b1924" stroke="#2a4856"/>
+  <path d="M690 99H1144" stroke="#2a4856"/>
+  <circle cx="714" cy="79" r="4" fill="#63ead3"/>
+  <circle cx="730" cy="79" r="4" fill="#79aaff"/>
+  <circle cx="746" cy="79" r="4" fill="#557180"/>
+  <text x="1120" y="84" text-anchor="end" font-family="monospace" font-size="12" fill="#8ba8b7">backend.workspace</text>
+  <g font-family="monospace" font-size="15">
+    <text x="716" y="135" fill="#627e8c">// where my work connects</text>
+    <text x="716" y="170" fill="#79aaff">const <tspan fill="#e3edef">focus = {</tspan></text>
+    <text x="738" y="204" fill="#aac2cc">apis: <tspan fill="#63ead3">"business workflows"</tspan>,</text>
+    <text x="738" y="236" fill="#aac2cc">auth: <tspan fill="#63ead3">"tokens &amp; sessions"</tspan>,</text>
+    <text x="738" y="268" fill="#aac2cc">data: <tspan fill="#63ead3">"connected systems"</tspan></text>
+    <text x="716" y="302" fill="#e3edef">};</text>
+    <rect x="741" y="289" width="8" height="16" fill="#63ead3" class="cursor"/>
+  </g>
+  <path d="M572 195H630V232H689" fill="none" stroke="#63ead3" stroke-opacity=".6" class="flow"/>
+  <circle cx="572" cy="195" r="4" fill="#63ead3"/>
+  <path d="M50 384H1150" stroke="#2a4856"/>
+  <text x="52" y="423" fill="#9ab5c0" font-size="13" letter-spacing="1.5">APIs &amp; AUTHENTICATION</text>
+  <text x="600" y="423" text-anchor="middle" fill="#9ab5c0" font-size="13" letter-spacing="1.5">BUSINESS APPLICATIONS</text>
+  <text x="1148" y="423" text-anchor="end" fill="#9ab5c0" font-size="13" letter-spacing="1.5">ALWAYS LEARNING</text>
+</g>
+</svg>
