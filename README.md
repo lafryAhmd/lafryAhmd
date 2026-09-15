@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-hero.svg" alt="Lafry — Backend Developer. Building the logic behind useful software." width="100%" />
+  <img src="./assets/profile-hero.svg" alt="Lafry — Software Engineer. Building the logic behind useful software." width="100%" />
 </p>
 
 <div align="center">
@@ -7,7 +7,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-lafryAhmd-102c34?style=flat-square&logo=github&logoColor=63ead3)](https://github.com/lafryAhmd)
 [![Projects](https://img.shields.io/badge/Explore-My_Projects-102c34?style=flat-square&logo=github&logoColor=63ead3)](https://github.com/lafryAhmd?tab=repositories)
 
-**From authentication flows to business workflows — building the backend that connects them.**
+**Building useful software — from application interfaces to the systems behind them.**
 
 [Selected projects](#selected-projects) · [Engineering focus](#engineering-focus) · [Current work](#current-work) · [Tech stack](#tech-stack)
 
@@ -17,7 +17,7 @@
 
 ## About me
 
-I'm **Lafry**, a backend developer intern working on an **AI customer support chatbot**. My work includes authentication, session management, user and business APIs, and knowledge base improvements.
+I'm **Lafry**, a **Software Engineer** interested in building practical web applications and connected systems. During my backend development internship, I contribute to an **AI customer support chatbot**, working on authentication, session management, user and business APIs, and knowledge base improvements.
 
 I work with **Java / Spring Boot** and **Node.js / TypeScript**, with projects spanning business platforms, web applications, and mobile backends. I enjoy understanding how the pieces connect and making them easier to maintain.
 
